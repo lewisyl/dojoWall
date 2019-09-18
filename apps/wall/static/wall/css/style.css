@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    width: 98%;
+    margin: 3vw auto;
+}
+
+.posted_msgs {
+    margin: 2vw auto;
+}
